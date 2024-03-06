@@ -103,5 +103,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://memory-game-ten-nu.vercel.app/)
+- Live Site URL: [click here ](https://memory-game-ten-nu.vercel.app/)
