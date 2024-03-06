@@ -61,7 +61,7 @@ const Game: React.FC<gameType> = ({ numOfPlayers, gridSize, theme }) => {
       <img className="w-[25px] md:w-[40px]" src="/apple.svg" />,
       <img className="w-[25px] md:w-[40px]" src="/gamepad.svg" />,
       <img className="w-[25px] md:w-[40px]" src="/book-alt.svg" />,
-      <img className="w-[25px] md:w-[40px]" src="public/key.svg" />,
+      <img className="w-[25px] md:w-[40px]" src="/key.svg" />,
     ];
     arrayIcons = arrayIcons.concat(arrayIcons);
     array = arrayIcons;

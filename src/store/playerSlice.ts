@@ -1,4 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
+/*import { createSlice } from "@reduxjs/toolkit";
 
 const playerSlice = createSlice({
   name: "playerNum",
@@ -12,4 +12,4 @@ const playerSlice = createSlice({
 
 export const { updateNum } = playerSlice.actions;
 
-export default playerSlice.reducer;
+export default playerSlice.reducer;*/
