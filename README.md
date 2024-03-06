@@ -1,6 +1,5 @@
 # Frontend Mentor - Memory game
 
-![Design preview for the Memory game coding challenge](./preview.jpg)
 
 ## Welcome! 👋
 
