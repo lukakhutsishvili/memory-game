@@ -1,9 +1,4 @@
 
-//overlay min-h rato armushaobs?
-//svg xan rato mushaobs xan ara?
-//resetcss dagvaviwyda
-// git da gitis brdzanebebi
-
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/home";
 import Game from "./pages/game";
